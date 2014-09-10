@@ -5,3 +5,4 @@ G:\visual studio 2013\Projects\1DV402.S1.L02C\1DV402.S1.L02C\obj\Debug\_1DV402.S
 G:\visual studio 2013\Projects\1DV402.S1.L02C\1DV402.S1.L02C\obj\Debug\1DV402.S1.L02C.csproj.GenerateResource.Cache
 G:\visual studio 2013\Projects\1DV402.S1.L02C\1DV402.S1.L02C\obj\Debug\1DV402.S1.L02C.exe
 G:\visual studio 2013\Projects\1DV402.S1.L02C\1DV402.S1.L02C\obj\Debug\1DV402.S1.L02C.pdb
+G:\visual studio 2013\Projects\1DV402.S1.L02C\1DV402.S1.L02C\obj\Debug\1DV402.S1.L02C.csprojResolveAssemblyReference.cache
