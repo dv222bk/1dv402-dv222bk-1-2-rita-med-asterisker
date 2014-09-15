@@ -29,7 +29,7 @@ namespace _1DV402.S1.L02C
         /// <returns>Retúrns true if the program should continue to run, false if it shouldn't</returns>
         private static bool IsContinuing()
         {
-            Console.WriteLine();
+            Console.Write("\n");
             ViewMessage(Properties.Resources.Continue_Prompt);
             if (Console.ReadKey(true).Key == ConsoleKey.Escape)
             {
@@ -45,7 +45,7 @@ namespace _1DV402.S1.L02C
         /// <param name="isError">Is this an error message? true = red background, false = darkgreen background</param>
         private static void ViewMessage(string message, bool isError = false)
         {
-            Console.WriteLine();
+            Console.Write("\n");
             Console.ForegroundColor = ConsoleColor.White;
             if (!isError)
             {
@@ -58,7 +58,7 @@ namespace _1DV402.S1.L02C
                 Console.WriteLine(message);
             }
             Console.ResetColor();
-            Console.WriteLine();
+            Console.Write("\n");
         }
 
         /// <summary>
